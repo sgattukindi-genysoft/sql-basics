@@ -8,3 +8,4 @@ def get_connection():
         password="card_storage",
         database="card_storage"
     )
+print("Hello world")
